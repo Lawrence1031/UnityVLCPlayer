@@ -528,7 +528,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_rawImage: {fileID: 112877717}
-  url: http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+  url: rtsp://210.99.70.120:1935/live/cctv002.stream
   width: 0
   height: 0
   autoscaleRawImage: 1
